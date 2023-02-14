@@ -12,7 +12,6 @@
 
  - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/nodejs.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/> <img align="center" height="30" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" /> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/postgreesql.png"/>
 
-- 👨‍💻 All of my projects are available at [https://abhijeet-ekad.netlify.app/](https://abhijeet-ekad.netlify.app/)
 
 - 📫 How to reach me **ekadabhijeet4@gmail.com**
 
